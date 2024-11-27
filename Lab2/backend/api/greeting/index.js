@@ -1,7 +1,7 @@
 const { app } = require('@azure/functions');
 
 const handler = async (request, context) => {
-    return { message: 'This is a greeting from the backend!' };
+    return { body: 'This is a greeting from the backend!' };
 };
 
 app.http('greeting', {
