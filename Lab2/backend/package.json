@@ -4,12 +4,15 @@
   "main": "./api/greeting/index.js",
   "scripts": {
     "start": "node ./api/greeting/index.js",
-    "test": "echo \"Error: no test specified\""
+    "test": "jest"
   },
   "author": "Marvin Koch",
   "license": "ISC",
   "description": "",
   "dependencies": {
     "@azure/functions": "^4.6.0"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0"
   }
 }
