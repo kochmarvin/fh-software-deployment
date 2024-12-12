@@ -69,3 +69,5 @@ http://127.0.0.1:53928/api/v1/namespaces/kubernetes-dashboard/services/http:kube
 ```
 
 ![Dashboard](./images/dashboard.png)
+
+![Wordpress](./images/wordpress.png)
