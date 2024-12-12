@@ -1,4 +1,4 @@
-# 
+# WordPress and MySQL Deployment on Minikube (MacOS)
 
 ## Prerequisites
 > Ensure you have the following installed:
